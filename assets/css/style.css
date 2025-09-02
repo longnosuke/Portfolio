@@ -846,6 +846,9 @@ a {
 .tech-badge-svelte {
   background-color: #ffe2d6;
 }
+.tech-badge-inertia {
+  background-color: #e5d9f6;
+}
 .tech-badge-css::before {
   background-image: url("/assets/images/skills/css.svg");
 }
@@ -872,6 +875,9 @@ a {
 }
 .tech-badge-svelte::before {
   background-image: url("/assets/images/skills/svelte.svg");
+}
+.tech-badge-inertia::before {
+  background-image: url("/assets/images/skills/inertia.svg");
 }
 .small-projects-grid {
   display: grid;
